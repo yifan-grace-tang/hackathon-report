@@ -1,5 +1,7 @@
 ### Hackathon Report
 
+> This is the public repository for __Group 6__ Hackathon __CX4803__
+
 >[!Note]
 > All steps to run this report are also included within the body of the report itself.
 
